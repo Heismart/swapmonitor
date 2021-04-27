@@ -21,9 +21,14 @@ SWAP占用分析工具,方便查找哪些进程占用Swap交换区,特别在做�
 ````
 ### 使用
 > 直接下载 执行文件 swapmonitor 或 git clone https://github.com/Heismart/swapmonitor.git
+> 
 > chmod +x swapmonitor && cp ./swapmonitor /usr/local/bin
+> 
 > swapmonitor
+> 
 > 根据提示输入即可
+
+>> 注： swapmonitor.sh 为Shell源码
 
 ### 适用操作系统
 
